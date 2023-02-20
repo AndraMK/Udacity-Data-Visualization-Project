@@ -1,0 +1,65 @@
+# Insight 1
+
+Link:
+https://public.tableau.com/app/profile/andra.kennedy/viz/MedianIncomeByState_16702833271480/MedianIncomeByState?publish=yes
+
+## Summary:
+The state/principality with the highest median income is Washington D.C. ($70,848), followed by New Jersey ($70,741) and Rhode Island ($69,526). The state/principality with the lowest median income is Puerto Rico ($16,852), with Mississippi as the second lowest ($33,749).
+
+This visualization shows a map of the US with median income filtered by color. Income was based on median calculations for a more accurate depiction. Darker colors represent greater median income while lighter colors represent lower median income. The colors are monochromatic to not distract the viewer from the data.
+
+
+# Insight 2
+
+https://public.tableau.com/app/profile/andra.kennedy/viz/AvgPovertyByState/AvgPovertyByState?publish=yes
+
+The state/principality with the highest average percentage of its population living in poverty is Puerto Rico (49.37%), followed by Mississippi (25.72%) and Georgia (22.2%). The state with the lowest percentage of individuals living in poverty is Connecticut (9.4%) followed by New Hampshire (10.17%). Interestingly, the state/principality identified as having the highest median income from Insight 1, Washington D.C. has an average poverty of 18%. Of equal interest, the states with second and third highest median incomes (New Jersey and Rhode Island), fell at 49th and 50th for poverty levels, with average percent of individuals living in poverty at 10.53% and 10.7%, respectively.
+
+This visualization is a horizontal bar graph representing the percentage of individuals living in or under poverty levels by state in descending order, beginning with the state/principality with the greatest average poverty percentage to the least average poverty percentage. The color of the bar graph is restricted to one color, blue, to not overwhelm the viewer and to allow easier interpretation.
+
+# Insight 3
+
+https://public.tableau.com/app/profile/andra.kennedy/viz/IncomevPoverty/IncomevPoverty?publish=yes
+
+This visualization appears to show a strong negative correlation between median household income and the average percentage of individuals living in poverty and childhood poverty by state. The graph suggests that for most US states, as median income increases, the percentage of individuals living in poverty decreases.
+
+A scatterplot was chosen to show this correlation. Colors blue and orange were chosen to show differences and similarities between childhood poverty and poverty when compared to median household income. These colors were chosen to assist individuals with color blindness to analyze the data. Size of the characters was manipulated to aid in visualization discrepancies as well. Average childhood poverty and poverty were set on a dual axis to show both values on the same graph for visual comparison.
+
+
+# Insight 4 - Dashboard
+
+Link:
+https://public.tableau.com/app/profile/andra.kennedy/viz/StateCensusDashboard/CountyStateDashboard?publish=yes
+
+## Summary:
+The above dashboard is a combination of graphs regarding occupational percentages within each state,  state population and ethnic data, and a map of percentages of state/county populations for employed and unemployed data. Viewers may customize the data visualization by selecting specific states/counties to further view information and make their own state comparisons. Summaries of each visualization are below:
+
+Jobs By State Income:
+This graph shows the average percentage of the state population employed in eight occupational fields. These fields are described as: 
+•	Private Industry: percent employed in private industry
+•	Professional: percent employed in management, business, science, and arts 
+•	Office: percent employed in sales and office jobs
+•	Public Work: percent employed in public jobs
+•	Service:  percent employed in service jobs
+•	Production: percent employed in production, transportation, and material movement
+•	Construction: percent employed in natural resources, construction, and maintenance
+•	Self-Employed: percent self-employed
+
+For this visualization, I chose to display the occupational data of the three states identified as having the highest median income. Across all three states, Private Industry had the largest percentage of workers, followed by Professional Work. Viewers have the option to select specific states and alter the visualization via the state drop down box on the top right of the graph.
+
+This graph depicts data using side-by-side bar graph to easily view occupational categories by state and comparing job makeup from state to state. Colors chosen are sensitive to individuals with color blindness, and the colors are consistent among job categories. This makes it easy to compare occupations across states. 
+
+State Population and Ethnicity:
+This bar graph displays total population and average percentage of ethnicity by state. States are in descending order from largest total population to smallest total population. Viewers can hover over each bar and see the average percentages of races present within each state.
+
+This bar graph utilizes a single color and orders data in descending order for easier visualization and analysis. 
+
+County/State Employment:
+This map shows the percentages of employment and unemployment within each state. Viewers can further dissect state data to see employment, unemployment, and total population data within each county. When viewing this data, it appears in most counties and states, the percentage of the population that is unemployed is larger than the percentage of the population that is employed. Median income and poverty does not appear to have an impact on employment or unemployment state population percentages.
+
+These graphs are created to be easily navigated by viewers by choosing the state selections via a drop down filter. Calculations were created to determine unemployment and employment state percentages. Colors of each graph were chosen to assist individuals with color blindness.
+
+# Resources
+
+Metadata descriptions of occupational columns taken from: https://rstudio-pubs-static.s3.amazonaws.com/352906_b6f719f938134f76bccb099ae1b89ed6.html
+

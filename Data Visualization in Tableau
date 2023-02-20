@@ -1,15 +1,15 @@
-# Insight 1
+### Insight 1
 
 Link:
 https://public.tableau.com/app/profile/andra.kennedy/viz/MedianIncomeByState_16702833271480/MedianIncomeByState?publish=yes
 
-## Summary:
+### Summary:
 The state/principality with the highest median income is Washington D.C. ($70,848), followed by New Jersey ($70,741) and Rhode Island ($69,526). The state/principality with the lowest median income is Puerto Rico ($16,852), with Mississippi as the second lowest ($33,749).
 
 This visualization shows a map of the US with median income filtered by color. Income was based on median calculations for a more accurate depiction. Darker colors represent greater median income while lighter colors represent lower median income. The colors are monochromatic to not distract the viewer from the data.
 
 
-# Insight 2
+### Insight 2
 
 https://public.tableau.com/app/profile/andra.kennedy/viz/AvgPovertyByState/AvgPovertyByState?publish=yes
 
@@ -17,7 +17,7 @@ The state/principality with the highest average percentage of its population liv
 
 This visualization is a horizontal bar graph representing the percentage of individuals living in or under poverty levels by state in descending order, beginning with the state/principality with the greatest average poverty percentage to the least average poverty percentage. The color of the bar graph is restricted to one color, blue, to not overwhelm the viewer and to allow easier interpretation.
 
-# Insight 3
+### Insight 3
 
 https://public.tableau.com/app/profile/andra.kennedy/viz/IncomevPoverty/IncomevPoverty?publish=yes
 
@@ -26,12 +26,12 @@ This visualization appears to show a strong negative correlation between median 
 A scatterplot was chosen to show this correlation. Colors blue and orange were chosen to show differences and similarities between childhood poverty and poverty when compared to median household income. These colors were chosen to assist individuals with color blindness to analyze the data. Size of the characters was manipulated to aid in visualization discrepancies as well. Average childhood poverty and poverty were set on a dual axis to show both values on the same graph for visual comparison.
 
 
-# Insight 4 - Dashboard
+### Insight 4 - Dashboard
 
 Link:
 https://public.tableau.com/app/profile/andra.kennedy/viz/StateCensusDashboard/CountyStateDashboard?publish=yes
 
-## Summary:
+### Summary:
 The above dashboard is a combination of graphs regarding occupational percentages within each state,  state population and ethnic data, and a map of percentages of state/county populations for employed and unemployed data. Viewers may customize the data visualization by selecting specific states/counties to further view information and make their own state comparisons. Summaries of each visualization are below:
 
 Jobs By State Income:
@@ -59,7 +59,7 @@ This map shows the percentages of employment and unemployment within each state.
 
 These graphs are created to be easily navigated by viewers by choosing the state selections via a drop down filter. Calculations were created to determine unemployment and employment state percentages. Colors of each graph were chosen to assist individuals with color blindness.
 
-# Resources
+### Resources
 
 Metadata descriptions of occupational columns taken from: https://rstudio-pubs-static.s3.amazonaws.com/352906_b6f719f938134f76bccb099ae1b89ed6.html
 
